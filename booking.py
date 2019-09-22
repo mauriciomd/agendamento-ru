@@ -86,6 +86,7 @@ def ru_booking(enrollment, password):
         return True
 
     except:
+        browser.close()
         return False
 
 
