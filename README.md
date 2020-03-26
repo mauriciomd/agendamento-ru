@@ -1,4 +1,4 @@
-# Agendamento Automático de RU (UFSM)
+# Agendamento Automático de RU (UFSM) 
 
 ### Objetivo.
 O script foi desenvolvido para realização do agendamento de refeições de maneira automática no sistema da Universidade Federal de Santa Maria (UFSM). Atualmente o script suporte os ambientes Unix like, isto é, Linux e Mac Os.
@@ -11,6 +11,5 @@ Para execução do script, as seguintes dependências devem estar instaladas cor
   - [Selenium](https://selenium-python.readthedocs.io/)
   - [Chrome Webdrive](https://chromedriver.chromium.org/downloads)
 
-### TODO:
-  - [ ] Adição de suporte ao Windows.
-  - [ ] Flexibilização do agendamento.
+### Descontinuado:
+Foi adicionado um captcha ao sistema de agendamento, impossibilitanto o agendamento automático :(
